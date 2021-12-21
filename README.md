@@ -1,0 +1,1 @@
+# İlk JavaScript ödevi 
