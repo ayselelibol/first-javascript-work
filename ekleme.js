@@ -1,5 +1,5 @@
 let userName=document.querySelector("#myName")
-isim= prompt("lutfen adınızı giriniz","orneğin:emre")
+isim= prompt("lutfen adınızı giriniz","orneğin:emre").toUpperCase()
 userName.innerHTML=isim
 if(!(isim.length>0)) {
 alert("eksik bilgi girdiniz")
